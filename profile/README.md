@@ -28,7 +28,7 @@ NVD 기반 CVE 매핑 및 위험도 평가
 ## 📄 예시 보고서
 
 ## 📜 라이선스
-MIT License. 자세한 내용은 LICENSE를 참조하세요.
+MIT License. 자세한 내용은 [LICENSE](../LICENSE)를 참조하세요.
 
 ## 🙋 기여 방법
 - 이슈 등록 또는 토론 참여
