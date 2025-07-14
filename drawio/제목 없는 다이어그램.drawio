@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.4">
   <diagram name="MVP용" id="Grr0DJv4Y1e9hhJLHsQP">
-    <mxGraphModel dx="1426" dy="912" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="935" dy="599" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -44,6 +44,12 @@
         </mxCell>
         <mxCell id="ed_mmDodNfh72MPT0J6u-2" value="Service BackEnd" style="rounded=0;whiteSpace=wrap;html=1;" parent="TeihBNskv_p726OuDTcQ-41" vertex="1">
           <mxGeometry x="125" y="39.75" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tUmhEDtswpG85VAvMDpo-2" value="Nest.js&amp;nbsp;&lt;br&gt;Postgre -&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TeihBNskv_p726OuDTcQ-41">
+          <mxGeometry x="148" y="39.75" width="74" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="tUmhEDtswpG85VAvMDpo-3" value="&amp;lt;- Go" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="TeihBNskv_p726OuDTcQ-41">
+          <mxGeometry x="83" y="47.25" width="48" height="26" as="geometry" />
         </mxCell>
         <mxCell id="TeihBNskv_p726OuDTcQ-18" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="680" y="470" width="300" height="66" as="geometry" />
@@ -151,6 +157,9 @@
         </mxCell>
         <mxCell id="ed_mmDodNfh72MPT0J6u-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ed_mmDodNfh72MPT0J6u-20" target="TeihBNskv_p726OuDTcQ-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tUmhEDtswpG85VAvMDpo-1" value="&amp;lt;- react + typescript" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="679" y="282" width="124" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
